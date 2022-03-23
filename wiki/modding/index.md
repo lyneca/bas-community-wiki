@@ -1,5 +1,5 @@
 # Modding
 
 
-# Contents
-1. {% link snippets.html %}
+# Snippets 
+[snippets](snippets.md)
