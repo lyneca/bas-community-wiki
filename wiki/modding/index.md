@@ -2,4 +2,4 @@
 
 
 # Contents
-1. {% link snippets.html}
+1. {% link snippets.html %}
