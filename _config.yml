@@ -3,12 +3,12 @@ title: bas-community-wiki
 remote_theme: Drassil/git-wiki-theme@master
 description: Blade and Sorcery Community Wiki
 show_downloads: false
-show_wiki_pages: false
+show_wiki_pages: true
 show_wiki_pages_limit: 10
 paginate: 5
 paginate_path: "assets/blog/page:num"
 blog_feature: false
-show_wiki_posts: true
+show_wiki_posts: false
 show_wiki_posts_limit: 5
 logo_url: assets/images/bas.png
 google_analytics:
