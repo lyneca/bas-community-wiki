@@ -1,3 +1,3 @@
-# git-wiki
+# bas-community-wiki
 
-[Demo and documentation](https://github.com/Drassil/git-wiki) for [git-wiki-theme](https://github.com/Drassil/git-wiki-theme)
+A Wiki for the bas community to collect modding tutorials, code snippets, useful information and cool things about the game
