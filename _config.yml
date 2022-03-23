@@ -1,14 +1,14 @@
 # (string) Title of your wiki
-title: git-wiki
+title: bas-community-wiki
 demo_ver: 1.0.14
 remote_theme: Drassil/git-wiki-theme@master
-description: Git-Wiki demo and documentation
-show_downloads: true
+description: Blade and Sorcery Community Wiki
+show_downloads: false
 show_wiki_pages: true
 show_wiki_pages_limit: 10
 paginate: 5
 paginate_path: "assets/blog/page:num"
-blog_feature: true
+blog_feature: false
 show_wiki_posts: true
 show_wiki_posts_limit: 5
 logo_url: assets/images/1200px-Wikipedia-logo-v2.svg_.png
@@ -18,7 +18,7 @@ use_github_wiki: false
 use_prose_io: true
 service: github
 search_engine : "js"
-google_cse_token: 007197903287787072094:8rbvkeqo6qw
+google_cse_token: 
 wiki_folder : "wiki"
 permalink: /blog/posts/:year/:month/:day/:title:output_ext
 site_root: 
